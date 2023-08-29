@@ -1,1 +1,4 @@
-
+*.zip
+*.sql
+*.gzip
+generated*
